@@ -1,0 +1,24 @@
+/*
+*Katherine Walton
+*Due Date 
+*Project Name and Description
+/* 
+
+/* The universal selector */
+
+* { 
+} 
+
+/* Body attributes here */
+
+body {
+    background-color: aqua
+}
+ width:85%;
+margin:auto;
+#sunset{100px; height:200px;}
+#clear water and mountains{width:200px; height:300px;}
+#mountains and boats{300px; height:500px;}
+figure {float:right;}
+#quotes {float:right;}
+/* all three pictures float right */
